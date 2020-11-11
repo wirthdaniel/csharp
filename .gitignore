@@ -3,3 +3,10 @@
 ################################################################################
 
 /Array/Array/bin/Debug
+/Array/Array/obj/Debug
+/Array/.vs/Array/v15
+/Collections/Array/bin/Debug
+/Collections/Array/obj/Debug
+/Collections/CsvIntoArray/obj/Debug
+/Collections/.vs/Collections/v15/Server/sqlite3
+/Collections/.vs/Collections/v15/.suo
